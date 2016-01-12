@@ -1,6 +1,6 @@
 ####一个简单的使用系统分享的例子，支持iOS6以后，但是微信分享的扩展，是iOS8以后中才出现的<br>
 
-![](https://github.com/Xiezhichao/CCSystemShare/blob/master/demo.mp4)  
+![](https://github.com/Xiezhichao/CCSystemShare/blob/master/demo.gif)  
 
 
 # Usage
